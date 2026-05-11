@@ -1,0 +1,7 @@
+id = "nil-ui"
+name = "Nil UI"
+version = "0.0.1"
+schema_version = 1
+authors = ["Petr Stepchenko <petr@nitrino.dev>"]
+description = "Nil UI theme for Zed"
+repository = "https://github.com/your-name/my-zed-extension"
