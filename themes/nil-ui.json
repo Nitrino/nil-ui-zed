@@ -7,7 +7,7 @@
       "name": "Nil UI",
       "appearance": "dark",
       "style": {
-        "border": "#21252bff",
+        "border": "#2c313aff",
         "border.variant": "#2c313aff",
         "border.focused": "#5889edff",
         "border.selected": "#5889ed88",
@@ -53,7 +53,7 @@
         "scrollbar.thumb.hover_background": "#5a637580",
         "scrollbar.thumb.border": "#00000000",
         "scrollbar.track.background": "#00000000",
-        "scrollbar.track.border": "#21252bff",
+        "scrollbar.track.border": "#262A32ff",
         "editor.foreground": "#b5bdcaff",
         "editor.background": "#262A32ff",
         "editor.gutter.background": "#262A32ff",
@@ -415,4 +415,3 @@
     }
   ]
 }
-
