@@ -7,7 +7,7 @@
       "name": "Nil UI",
       "appearance": "dark",
       "style": {
-        "border": "#181a1fff",
+        "border": "#21252bff",
         "border.variant": "#2c313aff",
         "border.focused": "#5889edff",
         "border.selected": "#5889ed88",
