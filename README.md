@@ -2,6 +2,8 @@
 
 A dark theme for [Zed](https://zed.dev) editor.
 
+![Nil UI screenshot](screenshot.png)
+
 ## Installation
 
 ### From the extension registry
